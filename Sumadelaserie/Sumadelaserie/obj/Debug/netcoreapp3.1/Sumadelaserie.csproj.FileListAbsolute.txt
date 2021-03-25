@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.Form1.resources
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\bin\Debug\netcoreapp3.1\Sumadelaserie.exe
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\bin\Debug\netcoreapp3.1\Sumadelaserie.deps.json
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\bin\Debug\netcoreapp3.1\Sumadelaserie.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\bin\Debug\netcoreapp3.1\Sumadelaserie.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\bin\Debug\netcoreapp3.1\Sumadelaserie.dll
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\bin\Debug\netcoreapp3.1\Sumadelaserie.pdb
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.dll
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.pdb
+C:\Users\Usuario\source\repos\Sumadelaserie\Sumadelaserie\obj\Debug\netcoreapp3.1\Sumadelaserie.genruntimeconfig.cache
